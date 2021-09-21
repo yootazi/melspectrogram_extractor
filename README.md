@@ -1,5 +1,5 @@
-## Mel Spectrogram Extractor
-# Extracting MEL Spectrograms from an Audio Dataset located in Google Drive
+# Mel Spectrogram Extractor
+## **Extracting Mel Spectrograms from an Audio Dataset located in Google Drive**
 
 ---
 
